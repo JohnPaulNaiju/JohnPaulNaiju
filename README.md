@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @JohnPaulNaiju
-- 👀 I’m interested in Engineering and building cool stuffs
-- 🌱 I’m currently learning lot of things
-- 📫 How to reach me [johnpaul100574@gmail.com]
+Hi there ![hi there]([assets/demo.gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)), I am John Paul Naiju!
 
-<!---
-JohnPaulNaiju/JohnPaulNaiju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working as an engineer at **4note Labs**
+
+🧰 I use **Python**, **JavaScript**, **Node.js**, **React.js**, **React Native**, **Firebase**, etc.
+
+📫 How to reach me: [johnpaul100574@gmail.com](mailto:johnpaul100574@gmail.com)
