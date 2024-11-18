@@ -1,4 +1,4 @@
-Hi there ![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif), I am John Paul Naiju!
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30" />, I am John Paul Naiju!
 
 🔭 I’m currently working as an engineer at **4note Labs**
 
