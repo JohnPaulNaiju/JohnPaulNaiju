@@ -61,7 +61,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 </table>
 </div>
 
-<h1>Experience<img src="https://i.pinimg.com/originals/fa/d4/b3/fad4b3f890c95985a95f0dd8b6f1bb5c.gif" alt="wave" width="60" /></h1>
+<h1>Experience<div style="width: 100%;"/><img src="https://i.pinimg.com/originals/fa/d4/b3/fad4b3f890c95985a95f0dd8b6f1bb5c.gif" alt="wave" width="100" /></h1>
 
 ### 1) 💼 Freelance Software Developer (present]
 
