@@ -5,13 +5,10 @@ Whatever you do, work at it with all your heart, as working for the Lord, not fo
 
 My journey as a self-taught engineer and researcher is fueled by an innate desire to unravel the mysteries of the universe and understand how everything works. My interests are incredibly broad, spanning the intricacies of `AI` and `Quantum Mechanics`, the foundational principles of `Physics` and `Mathematics`, and practical applications in `CAD`, `Electronics`, and `Robotics` etc even extending to `Biblical studies`. I'm a lifelong learner who thrives on exploring, comprehending, and building. I believe in harnessing this knowledge to create impactful technology, change lives, and contribute to society, all for the glory of Lord Jesus. Here, I'll be documenting my projects, past and present, as I continue to learn, build, and implement across the many fields that captivate me.
 
-<table style="border-collapse: separate; border-spacing: 0; width: 100%;">
-  <tr style="width: 100%">
-    <td width="100%" style="border: solid 1px #e1e4e8; border-radius: 10px; padding: 0px;">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="wave" width="100%" height="auto" />
-    </td>
-  </tr>
-  <tr style="width: 100%;">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="wave" width="100%" height="auto" />
+
+<table style="border-collapse: separate; border-spacing: 0; width: 100%; border-radius: 10px;">
+  <tr style="width: 100%; border-radius: 10px;">
     <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
       <h3>My area of learning and interest:</h3>
       <ul>
