@@ -57,6 +57,8 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
   </tr>
 </table>
 
+<h1>Experience</h1>
+
 ### 💼 Freelance Software Developer
 
 * **Nov 2023 – Present**
