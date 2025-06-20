@@ -61,7 +61,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 </table>
 </div>
 
-<h1 style="width: 100%;">Experience <img src="https://i.pinimg.com/originals/fa/d4/b3/fad4b3f890c95985a95f0dd8b6f1bb5c.gif" alt="wave" width="60" style="margin-left: 100%;"/></h1>
+<h1>Experience <img src="https://i.pinimg.com/originals/fa/d4/b3/fad4b3f890c95985a95f0dd8b6f1bb5c.gif" alt="wave" width="60"/></h1>
 
 ### 1) 💼 Freelance Software Developer (present]
 
@@ -89,7 +89,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 * *Despite the app's success in development and reception, the startup ultimately did not succeed commercially.*
 
-<h1>Education</h1>
+<h1><img src="https://cdn.edu.buncee.com/assets/375137316b09ba7dfb235e96b578c6d2/animation-education-books-0505.gif" alt="wave" width="60"/> Education</h1>
 
 ### 1) 🎓 APJ Abdul Kalam Technological University
 
