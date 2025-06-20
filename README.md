@@ -7,9 +7,9 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="wave" width="100%" height="auto" />
 
-<div style="border-radius: 10px; overflow: hidden;">
-<table style="width:100%; border-collapse: separate; border-spacing: 15px; border-radius: 10px;">
-  <tr>
+
+<table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
+  <tr style="width: 100%; border-radius: 10px;">
     <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
       <h3>My area of learning and interest:</h3>
       <ul>
@@ -36,7 +36,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
       </ul>
     </td>
   </tr>
-  <tr>
+  <tr style="width: 100%; border-radius: 10px;">
     <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
       <h3>Tools I use:</h3>
       <ul>
@@ -58,7 +58,6 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
     </td>
   </tr>
 </table>
-</div>
 
 <h1>Experience <img src="https://i.pinimg.com/originals/fa/d4/b3/fad4b3f890c95985a95f0dd8b6f1bb5c.gif" alt="wave" width="60"/></h1>
 
