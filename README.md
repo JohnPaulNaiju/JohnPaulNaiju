@@ -6,7 +6,7 @@ Whatever you do, work at it with all your heart, as working for the Lord, not fo
 
 My journey as a self-taught engineer and researcher is fueled by an innate desire to unravel the mysteries of the universe and understand how everything works. My interests are incredibly broad, spanning the intricacies of `AI` and `Quantum Mechanics`, the foundational principles of `Physics` and `Mathematics`, and practical applications in `CAD`, `Electronics`, and `Robotics` etc even extending to `Biblical studies`. I'm a lifelong learner who thrives on exploring, comprehending, and building. I believe in harnessing this knowledge to create impactful technology, change lives, and contribute to society, all for the glory of Lord Jesus. Here, I'll be documenting my projects, past and present, as I continue to learn, build, and implement across the many fields that captivate me.
 
-<table style="width:100%; border-collapse: separate; border-spacing: 15px;">
+<table style="width:100%; border-collapse: separate; border-spacing: 15px; border-radius: 10px;">
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
       <h3>My area of learning and interest:</h3>
@@ -21,6 +21,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
         <li>🔭 Physics</li>
         <li>🧮 Mathematics</li>
         <li>✝️ Biblical studies</li>
+        <li>   </li>
       </ul>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
@@ -42,6 +43,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
         <li>🌐 HTML | CSS | ReactJS | React Native | Material UI</li>
         <li>🛠️ Figma | Fusion 360 | Gitlab | Github | VS Code</li>
         <li>🔬 Arduino | Rasperry Pi | Bambu lab A1 mini</li>
+        <li>   </li>
       </ul>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
