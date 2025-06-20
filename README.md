@@ -21,8 +21,8 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
         <li>🔭 Physics</li>
         <li>🧮 Mathematics</li>
         <li>✝️ Biblical studies</li>
-        <li>   </li>
       </ul>
+      <br/>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
       <h3>My skills:</h3>
@@ -43,8 +43,8 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
         <li>🌐 HTML | CSS | ReactJS | React Native | Material UI</li>
         <li>🛠️ Figma | Fusion 360 | Gitlab | Github | VS Code</li>
         <li>🔬 Arduino | Rasperry Pi | Bambu lab A1 mini</li>
-        <li>   </li>
       </ul>
+      <br/>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
       <h3>My Core Drives:</h3>
