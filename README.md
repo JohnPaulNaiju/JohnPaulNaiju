@@ -7,45 +7,36 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="wave" width="100%" height="auto" />
 
-<details>
-  <summary><h3>My area of learning and interest</h3></summary>
-  <p>This is the content that will be hidden by default.</p>
-    <ul>
-      <li>👨‍💻 Fullstack | Software development</li>
-      <li>🖥️ Computer science | algorithms</li>
-      <li>🤖 AI | ML | DL | Transformers | Neural Nets</li>
-      <li>⚛️ Quantum Science and Technology</li>
-      <li>🪫 Electronics</li>
-      <li>🦾 Robotics</li>
-      <li>🚀 Aerospace | Aeronautical</li>
-      <li>🔭 Physics</li>
-      <li>🧮 Mathematics</li>
-      <li>✝️ Biblical studies</li>
-    </ul>
-</details>
+<h3>My area of learning and interest</h3>
+<ul>
+    <li>👨‍💻 Fullstack | Software development</li>
+    <li>🖥️ Computer science | algorithms</li>
+    <li>🤖 AI | ML | DL | Transformers | Neural Nets</li>
+    <li>⚛️ Quantum Science and Technology</li>
+    <li>🪫 Electronics</li>
+    <li>🦾 Robotics</li>
+    <li>🚀 Aerospace | Aeronautical</li>
+    <li>🔭 Physics</li>
+    <li>🧮 Mathematics</li>
+    <li>✝️ Biblical studies</li>
+</ul>
 
-<details>
-  <summary><h3>My skills</h3></summary>
-  <p>This is the content that will be hidden by default.</p>
-    <ul>
-      <li>🧑‍💻 Programming | Coding | Development</li>
-      <li>🎨 Design: UI | UX | CAD</li>
-      <li>🕹️ Embedded systems</li>
-      <li>👷‍♂️ Prototyping</li>
-    </ul>
-</details>
+<h3>My skills</h3>
+<ul>
+  <li>🧑‍💻 Programming | Coding | Development</li>
+  <li>🎨 Design: UI | UX | CAD</li>
+  <li>🕹️ Embedded systems</li>
+  <li>👷‍♂️ Prototyping</li>
+</ul>
 
-<details>
-  <summary><h3>Tools I use</h3></summary>
-  <p>This is the content that will be hidden by default.</p>
-    <ul>
-        <li>🐍 Python | Javascript | C++ | C | R | Java | NodeJS</li>
-        <li>🔥 Firebase | GCP | MySQL | cPanel</li>
-        <li>🌐 HTML | CSS | ReactJS | React Native | Material UI</li>
-        <li>🛠️ Figma | Fusion 360 | Gitlab | Github | VS Code</li>
-        <li>🔬 Arduino | Rasperry Pi | Bambu lab A1 mini</li>
-    </ul>
-</details>
+<h3>Tools I use</h3>
+<ul>
+    <li>🐍 Python | Javascript | C++ | C | R | Java | NodeJS</li>
+    <li>🔥 Firebase | GCP | MySQL | cPanel</li>
+    <li>🌐 HTML | CSS | ReactJS | React Native | Material UI</li>
+    <li>🛠️ Figma | Fusion 360 | Gitlab | Github | VS Code</li>
+    <li>🔬 Arduino | Rasperry Pi | Bambu lab A1 mini</li>
+</ul>
 
 <h1>Experience <img src="https://i.pinimg.com/originals/fa/d4/b3/fad4b3f890c95985a95f0dd8b6f1bb5c.gif" alt="wave" width="60"/></h1>
 
