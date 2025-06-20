@@ -7,7 +7,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <table style="width: 100%; border-collapse: separate; border-spacing: 0;">
   <tr style="border-top-left-radius: 10px; border-top-right-radius: 10px; border-top-style: solid;">
-    <td style="border: solid 1px #e1e4e8; border-style: none solid solid none; padding: 10px;">
+    <td style="border: solid 1px #e1e4e8; border-style: none solid solid none; width: 100%">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="wave" width="100%" height="auto" />
     </td>
   </tr>
