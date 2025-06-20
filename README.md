@@ -1,3 +1,24 @@
+:root table {
+  --table-border-radius: 8px;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+th:first-child {
+  border-top-left-radius: var(--table-border-radius);
+}
+th:last-child {
+  border-top-right-radius: var(--table-border-radius);
+}
+tr:last-child td:first-child {
+  border-bottom-left-radius: var(--table-border-radius);
+}
+tr:last-child td:last-child {
+  border-bottom-right-radius: var(--table-border-radius);
+}
+:root :is(td, th) {
+  border-width: 0 var(--table-border-width) var(--table-border-width) 0;
+}
+
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30" />, <br/>I am John Paul Naiju</h1>
 <h3>Self-taught engineer</h3>
 
