@@ -47,7 +47,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
       <br/>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
-      <h3>My Core Drives:</h3>
+      <h3>My core drives:</h3>
       <ul>
         <li>🧞‍♂️ Innovation & Problem Solving</li>
         <li>Purpose-driven learning</li>
@@ -98,6 +98,9 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 * **LKG to 12th Grade, Computer Science Stream**
 
 * **2007 – 2021**
+
+
+<br/>
 
 📫 How to reach me: [johnpaul100574@gmail.com](mailto:johnpaul100574@gmail.com)
 
