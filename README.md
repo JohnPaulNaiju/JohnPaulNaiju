@@ -9,7 +9,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <table style="border-collapse: separate; border-spacing: 0; width: 100%; border-radius: 10px;">
   <tr style="width: 100%; border-radius: 10px;">
-    <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
+    <td width="50%" valign="top" style="border: 1px solid #FFFFFF; border-radius: 10px; padding: 20px;">
       <h3>My area of learning and interest:</h3>
       <ul>
         <li>👨‍💻 Fullstack | Software development</li>
@@ -25,7 +25,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
       </ul>
       <br/>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
+    <td width="50%" valign="top" style="border: 1px solid #FFFFFF; border-radius: 10px; padding: 20px;">
       <h3>My skills:</h3>
       <ul>
         <li>🧑‍💻 Programming | Coding | Development</li>
@@ -36,7 +36,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
     </td>
   </tr>
   <tr style="width: 100%; border-radius: 10px;">
-    <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
+    <td width="50%" valign="top" style="border: 1px solid #FFFFFF; border-radius: 10px; padding: 20px;">
       <h3>Tools I use:</h3>
       <ul>
         <li>🐍 Python | Javascript | C++ | C | R | Java | NodeJS</li>
@@ -47,7 +47,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
       </ul>
       <br/>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
+    <td width="50%" valign="top" style="border: 1px solid #FFFFFF; border-radius: 10px; padding: 20px;">
       <h3>My core drives:</h3>
       <ul>
         <li>🧞‍♂️ Innovation & Problem Solving</li>
