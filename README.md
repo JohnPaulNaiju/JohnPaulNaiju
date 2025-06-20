@@ -121,12 +121,10 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 [See more](https://github.com/JohnPaulNaiju/achievements?tab=readme-ov-file)
 
-
-<br/>
-<br/>
 <br/>
 
 <h2>Contacts</h2>
+
 [Reach me by mail 📫](mailto:johnpaul100574@gmail.com)
 
 <h2>Causes</h2>
