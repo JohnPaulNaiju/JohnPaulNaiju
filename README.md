@@ -7,7 +7,6 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="wave" width="100%" height="auto" />
 
-
 <table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
   <tr style="width: 100%; border-radius: 10px;">
     <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
@@ -71,26 +70,21 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 ### 1) 🎓 APJ Abdul Kalam Technological University
 
-* **Bachelor of Technology (B.Tech) in Artificial Intelligence and Data Science**
+* **Bachelor of Technology (B.Tech) in Artificial Intelligence and Data Science** 2021-25
 
-* **2021 – 2025**
-
-### 2) 🏫 CMI Public School Chalakudy
-
-* **LKG to 12th Grade, Computer Science Stream**
-
-* **2007 – 2021**
-
+[See more](https://github.com/JohnPaulNaiju/research-n-education)
 
 <h1>Projects</h1>
 
 <img src="https://giffiles.alphacoders.com/130/13054.gif" alt="wave" width="100%" height="auto" />
 
-<h2>Best Projects</h1>
-<h6>will update soon...</h6>
+<h2>Best Project</h1>
+
+<h6>soon...</h6>
 
 <h2>Projects</h1>
-<h6>will update soon...</h6>
+
+<h6>soon...</h6>
 
 <h1>Achievements <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/5c7e0036030a65b2ba85f1d915c3274c.png" alt="wave" width="60"/></h1>
 
