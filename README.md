@@ -1,6 +1,6 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30" /></h1> 
-<h3>I am John Paul Naiju</h3>
-<h4>Self-taught engineer</h4>
+<h2>I am John Paul Naiju</h2>
+<h3>Self-taught engineer</h3>
 
 Whatever you do, work at it with all your heart, as working for the Lord, not for human masters, Colossians 3:23.
 
