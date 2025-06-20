@@ -1,5 +1,19 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30" />, I am John Paul Naiju, a self-taught engineer.
 
 My journey as a self-taught engineer and researcher is fueled by an innate desire to unravel the mysteries of the universe and understand how everything works. My interests are incredibly broad, spanning the intricacies of `AI` and `Quantum Mechanics`, the foundational principles of `Physics` and `Mathematics`, and practical applications in `CAD`, `Electronics`, and `Robotics` etc even extending to `Biblical Studies`. I'm a lifelong learner who thrives on exploring, comprehending, and building. I believe in harnessing this knowledge to create impactful technology, change lives, and contribute to society, all for the glory of Lord Jesus. Here, I'll be documenting my projects, past and present, as I continue to learn, build, and implement across the many fields that captivate me.
+
+My area of skills, learning and interest:
+-> `Fullstack development` <span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star"></span>
+<span class="fa fa-star"></span>
+-> AI
+-> QC
+-> 
+
+
+
 
 📫 How to reach me: [johnpaul100574@gmail.com](mailto:johnpaul100574@gmail.com)
