@@ -85,6 +85,21 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 * *Despite the app's success in development and reception, the startup ultimately did not succeed commercially.*
 
+<h1>Education</h1>
+## Education
+
+### 🎓 APJ Abdul Kalam Technological University
+
+* **Bachelor of Technology (B.Tech) in Artificial Intelligence and Data Science**
+
+* **2021 – 2025**
+
+### 🏫 CMI Public School Chalakudy
+
+* **LKG to 12th Grade, Computer Science Stream**
+
+* **2007 – 2021**
+
 📫 How to reach me: [johnpaul100574@gmail.com](mailto:johnpaul100574@gmail.com)
 
 I do these to feed my curiosity and fullfill my purpose and not for make a living or job purpose. I love peace and want to become a sheep farmer in Switzerland and do part time preaching or smth useful 😅. Above all what will it profit a man if he gains the whole world and forfeits his soul?
