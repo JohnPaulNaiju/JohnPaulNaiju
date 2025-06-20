@@ -100,6 +100,16 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 * **2007 – 2021**
 
 
+<h1>Projects</h1>
+###Wytty
+* Online social netowrking app
+
+###4note
+* AI note taking app
+
+
+<br/>
+<br/>
 <br/>
 
 📫 How to reach me: [johnpaul100574@gmail.com](mailto:johnpaul100574@gmail.com)
