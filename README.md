@@ -66,7 +66,9 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
       <ul>
         <li>**Nov 2023 – Present**</li>
       </ul>
-      <h5>[See more](https://github.com/JohnPaulNaiju/experience)</h5>
+      
+      [See more](https://github.com/JohnPaulNaiju/experience)
+      
     </td>
     <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
       <h3>Courses, Education & Research <img src="https://i.pinimg.com/originals/ee/7c/43/ee7c4374f599e383ff0d92d5de2f8d60.gif" alt="Education Icon" width="40"/></h3>
