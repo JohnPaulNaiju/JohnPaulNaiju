@@ -89,7 +89,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 * *Despite the app's success in development and reception, the startup ultimately did not succeed commercially.*
 
-<h1><img src="https://cdn.edu.buncee.com/assets/375137316b09ba7dfb235e96b578c6d2/animation-education-books-0505.gif" alt="wave" width="60"/> Education</h1>
+<h1>Education <img src="https://cdn.edu.buncee.com/assets/375137316b09ba7dfb235e96b578c6d2/animation-education-books-0505.gif" alt="wave" width="60"/></h1>
 
 ### 1) 🎓 APJ Abdul Kalam Technological University
 
