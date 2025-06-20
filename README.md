@@ -101,11 +101,12 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 
 <h1>Projects</h1>
+
 ### Wytty
-* Online social netowrking app
+* <h6>will update soon...</h6>
 
 ### 4note
-* AI note taking app
+* <h6>will update soon...</h6>
 
 
 <br/>
