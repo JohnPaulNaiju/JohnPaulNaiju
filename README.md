@@ -108,11 +108,14 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <img src="https://giffiles.alphacoders.com/130/13054.gif" alt="wave" width="100%" height="auto" />
 
-### Wytty
+<h2>Best Projects</h1>
 <h6>will update soon...</h6>
 
-### 4note
+<h2>Projects</h1>
 <h6>will update soon...</h6>
+
+<h1>Achievements <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/5c7e0036030a65b2ba85f1d915c3274c.png" alt="wave" width="60"/></h1>
+### 1) 🥇 Won 1st prize in the **Horuss Productathon** organized by GDSC GECT:
 
 
 <br/>
