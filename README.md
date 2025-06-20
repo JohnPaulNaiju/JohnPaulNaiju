@@ -7,11 +7,11 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <table style="border-collapse: separate; border-spacing: 0; width: 100%;">
   <tr style="width: 100%">
-    <td style="border: solid 1px #e1e4e8; border-radius: 10px; width: 100%;">
+    <td width="100%" style="border: solid 1px #e1e4e8; border-radius: 10px; padding: 0px;">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="wave" width="100%" height="auto" />
     </td>
   </tr>
-  <tr style="width: 100%; border-radius: 10px;">
+  <tr style="width: 100%;">
     <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
       <h3>My area of learning and interest:</h3>
       <ul>
