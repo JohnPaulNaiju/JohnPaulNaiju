@@ -125,7 +125,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <h2>Contacts</h2>
 
-[Reach me by mail 📫](mailto:johnpaul100574@gmail.com)
+- [Reach me by mail 📫](mailto:johnpaul100574@gmail.com)
 
 <h2>Causes</h2>
 
