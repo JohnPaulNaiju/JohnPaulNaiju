@@ -7,9 +7,9 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="wave" width="100%" height="auto" />
 
-<table style="border-collapse: separate; border-spacing: 0; width: 100%; border-radius: 10px;">
-  <tr style="width: 100%; border-radius: 10px;">
-    <td width="50%" valign="top" style="border: 1px solid #FFFFFF; border-radius: 10px; padding: 20px;">
+<table style="border-collapse: separate;">
+  <tr style="width: 100%;">
+    <td width="50%">
       <h3>My area of learning and interest:</h3>
       <ul>
         <li>👨‍💻 Fullstack | Software development</li>
@@ -25,7 +25,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
       </ul>
       <br/>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #FFFFFF; border-radius: 10px; padding: 20px;">
+    <td width="50%">
       <h3>My skills:</h3>
       <ul>
         <li>🧑‍💻 Programming | Coding | Development</li>
@@ -35,8 +35,8 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
       </ul>
     </td>
   </tr>
-  <tr style="width: 100%; border-radius: 10px;">
-    <td width="50%" valign="top" style="border: 1px solid #FFFFFF; border-radius: 10px; padding: 20px;">
+  <tr style="width: 100%;">
+    <td width="50%"">
       <h3>Tools I use:</h3>
       <ul>
         <li>🐍 Python | Javascript | C++ | C | R | Java | NodeJS</li>
@@ -47,7 +47,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
       </ul>
       <br/>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #FFFFFF; border-radius: 10px; padding: 20px;">
+    <td width="50%">
       <h3>My core drives:</h3>
       <ul>
         <li>🧞‍♂️ Innovation & Problem Solving</li>
