@@ -103,3 +103,12 @@ While I've worked on numerous projects over the years, for the time being, I'll 
 <h2>Causes</h2>
 
 I do these to feed my curiosity and fullfill my purpose and not for make a living or job purpose. I love peace and want to become a sheep farmer in Switzerland and do part time preaching or smth useful 😅. Above all what will it profit a man if he gains the whole world and forfeits his soul?
+
+<details>
+  <summary>Click to reveal details</summary>
+  <p>This is the content that will be hidden by default.</p>
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+  </ul>
+</details>
