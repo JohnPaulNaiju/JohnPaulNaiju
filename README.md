@@ -58,21 +58,45 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
   </tr>
 </table>
 
-<h1>Experience <img src="https://i.pinimg.com/originals/fa/d4/b3/fad4b3f890c95985a95f0dd8b6f1bb5c.gif" alt="wave" width="60"/></h1>
-
-### 1) 💼 Freelance Software Developer (present]
-
-* **Nov 2023 – Present**
-
-[See more](https://github.com/JohnPaulNaiju/experience)
-
-<h1>Education <img src="https://i.pinimg.com/originals/ee/7c/43/ee7c4374f599e383ff0d92d5de2f8d60.gif" alt="wave" width="60"/></h1>
-
-### 1) 🎓 APJ Abdul Kalam Technological University
-
-* **Bachelor of Technology (B.Tech) in Artificial Intelligence and Data Science** 2021-25
-
-[See more](https://github.com/JohnPaulNaiju/research-n-education)
+<table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
+      <h3>Experience <img src="https://i.pinimg.com/originals/fa/d4/b3/fad4b3f890c95985a95f0dd8b6f1bb5c.gif" alt="Experience Icon" width="40"/></h3>
+      <h4>💼 Freelance Software Developer (present)</h4>
+      <ul>
+        <li>**Nov 2023 – Present**</li>
+      </ul>
+      [See more](https://github.com/JohnPaulNaiju/experience)
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
+      <h3>Courses, Education & Research <img src="https://i.pinimg.com/originals/ee/7c/43/ee7c4374f599e383ff0d92d5de2f8d60.gif" alt="Education Icon" width="40"/></h3>
+      <h4>🎓 APJ Abdul Kalam Technological University</h4>
+      <ul>
+        <li>**Bachelor of Technology (B.Tech) in Artificial Intelligence and Data Science** 2021-25</li>
+      </ul>
+      [See more](https://github.com/JohnPaulNaiju/research-n-education)
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
+      <h3>Achievements <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/5c7e0036030a65b2ba85f1d915c3274c.png" alt="Achievements Icon" width="40"/></h3>
+      <h4>🥇 Horuss Productathon Winner</h4>
+      <ul>
+        <li>**Awarded 1st prize** in the Horuss Productathon, organized by GDSC GECT.</li>
+      </ul>
+      [See more](https://github.com/JohnPaulNaiju/achievements)
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px;">
+      <h3>Best Project <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Best Project Icon" width="40"/></h3>
+      <h4>🌟 My Flagship AI Project</h4>
+      <ul>
+        <li>A groundbreaking project demonstrating the application of advanced AI models to solve a real-world problem.</li>
+        <li>Utilized Deep Learning techniques and custom algorithms for optimal performance.</li>
+      </ul>
+      [See more](https://github.com/JohnPaulNaiju/best-project)
+    </td>
+  </tr>
+</table>
 
 <h1>Projects</h1>
 
@@ -85,16 +109,6 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 <h2>Projects</h1>
 
 <h6>soon...</h6>
-
-<h1>Achievements <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/5c7e0036030a65b2ba85f1d915c3274c.png" alt="wave" width="60"/></h1>
-
-### 1) 🥇 **Horuss Productathon Winner**
-
-* **Awarded 1st prize** in the Horuss Productathon, organized by GDSC GECT.
-
-[See more](https://github.com/JohnPaulNaiju/achievements?tab=readme-ov-file)
-
-<br/>
 
 <h2>Contacts</h2>
 
