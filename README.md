@@ -57,6 +57,17 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
   </tr>
 </table>
 
+<h2>Experience</h2>
+- <h4>Freelance Software Dev</h4>
+  - <h5>Nov 2023 - Present</h5>
+  - <h5>Working as part-time freelance software developer</h5>
+- <h4>Co-Founder and Engineer at 4note</h4>
+  - <h5>Jan 2024 - Apr 2025</h5>
+  - <h5>Created AI note taking app as a startup and w on college level ideafest.</h5>
+- <h4>Co-Founder and Engineer at Wytty Platforms</h4>
+  - <h5>Jan 2022 - Nov 2023</h5>
+  - <h5>Created social networking app as a startup. Even though app was a success, we failed as a startup. We presented the app at 2023 IEDC summit in CET. Also won 1st prize in horuss productathon organized by GDSC GECT.</h5>
+
 📫 How to reach me: [johnpaul100574@gmail.com](mailto:johnpaul100574@gmail.com)
 
 I do these to feed my curiosity and fullfill my purpose and not for make a living or job purpose. I love peace and want to become a sheep farmer in Switzerland and do part time preaching or smth useful 😅. Above all what will it profit a man if he gains the whole world and forfeits his soul?
