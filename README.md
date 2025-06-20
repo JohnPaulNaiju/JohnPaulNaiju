@@ -114,7 +114,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 <h6>will update soon...</h6>
 
 <h1>Achievements <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/5c7e0036030a65b2ba85f1d915c3274c.png" alt="wave" width="60"/></h1>
-### 1) 🥇 Won 1st prize in the **Horuss Productathon** organized by GDSC GECT:
+### 1) 🥇 Won 1st prize in the **Horuss Productathon** organized by GDSC GECT: [Certificate](https://github.com/JohnPaulNaiju/achievements/blob/main/JOHN%20PAUL%20NAIJU(1).jpg)
 
 
 <br/>
