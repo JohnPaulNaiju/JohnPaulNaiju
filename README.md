@@ -103,6 +103,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 * **2007 – 2021**
 
+<img src="https://giffiles.alphacoders.com/130/13054.gif" alt="wave" width="100%" height="auto" />
 
 <h1>Projects</h1>
 
