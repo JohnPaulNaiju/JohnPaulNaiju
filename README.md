@@ -57,16 +57,31 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
   </tr>
 </table>
 
-<h2>Experience</h2>
-- <h4>Freelance Software Dev</h4>
-  - <h5>Nov 2023 - Present</h5>
-  - <h5>Working as part-time freelance software developer</h5>
-- <h4>Co-Founder and Engineer at 4note</h4>
-  - <h5>Jan 2024 - Apr 2025</h5>
-  - <h5>Created AI note taking app as a startup and w on college level ideafest.</h5>
-- <h4>Co-Founder and Engineer at Wytty Platforms</h4>
-  - <h5>Jan 2022 - Nov 2023</h5>
-  - <h5>Created social networking app as a startup. Even though app was a success, we failed as a startup. We presented the app at 2023 IEDC summit in CET. Also won 1st prize in horuss productathon organized by GDSC GECT.</h5>
+### 💼 Freelance Software Developer
+
+* **Nov 2023 – Present**
+
+* Working as a part-time freelance software developer on various projects.
+
+### 💡 Co-Founder and Engineer at 4note
+
+* **Jan 2024 – Apr 2025**
+
+* Developed an **AI note-taking application** as a startup venture.
+
+* 🏆 Awarded 1st prize in a college-level Ideafest competition for the innovative concept.
+
+### 🌐 Co-Founder and Engineer at Wytty Platforms
+
+* **Jan 2022 – Nov 2023**
+
+* Engineered a **social networking application** as a startup.
+
+* Presented the application at the **2023 IEDC Summit** in CET.
+
+* 🥇 Won 1st prize in the **Horuss Productathon** organized by GDSC GECT.
+
+* *Despite the app's success in development and reception, the startup ultimately did not succeed commercially.*
 
 📫 How to reach me: [johnpaul100574@gmail.com](mailto:johnpaul100574@gmail.com)
 
