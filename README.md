@@ -35,3 +35,5 @@ Tools I use:
 - `Arduino | Rasperry Pi | Bambu lab A1 mini`
 
 📫 How to reach me: [johnpaul100574@gmail.com](mailto:johnpaul100574@gmail.com)
+
+I do these to feed my curiosity and fullfill my purpose and not for make a living or job purpose. I love peace and want to become a sheep farmer in Switzerland and do part time preaching or smth useful 😅. Above all what will it profit a man if he gains the whole world and forfeits his soul?
