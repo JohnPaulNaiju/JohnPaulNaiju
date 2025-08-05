@@ -68,8 +68,8 @@ While I've worked on numerous projects over the years, for the time being, I'll 
 
 <img src="https://giffiles.alphacoders.com/130/13054.gif" alt="wave" width="100%" height="auto" />
 
-1. Wytty: Community based Social Networking App. [See here](https://github.com/JohnPaulNaiju/wytty)
-2. 4note: AI note taking app. [See here](https://github.com/JohnPaulNaiju/4note)
+#### 1. **Wytty**: Community based Social Networking App. [See here](https://github.com/JohnPaulNaiju/wytty)
+#### 2. **4note**: AI note taking app. [See here](https://github.com/JohnPaulNaiju/4note)
 
 <h2>Contacts</h2>
 
