@@ -73,25 +73,7 @@ While I've worked on numerous projects over the years, for the time being, I'll 
 * **AI Receptionist**: AI receptionist and AI hotel services (booking etc.) app. [See here](https://github.com/JohnPaulNaiju/AI-Receptionist)
 * **Animal Detection**: Animal Detection in python using YoLo. [See here](https://github.com/JohnPaulNaiju/Animal-Detection)
 
-### Undocumented projects:
-
-- Whatsapp clone
-- Flappy bird
-- Signal clone
-- Netflix clone
-- Google meet clone
-- Hospital management system (+2 CS project)
-- Chatbot
-- Chat apps
-- RC cars
-- Pomodoro timer app
-- etc
-
-### Freelance works that I have done (these projects are private repo)
-
-1. CMS website for a school
-2. CMS website for a tour company
-3. Employee, Project, Client management software for cleaning and other services offering company
+[See more](https://github.com/JohnPaulNaiju/projects)
 
 <h2>Contacts</h2>
 
