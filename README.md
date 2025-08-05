@@ -64,7 +64,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <h1>Projects</h1>
 
-While I've worked on numerous projects over the years, for the time being, I'll only be uploading those completed from 2025. There are simply too many older projects, which is not practical to upload.
+While I've worked on numerous projects over the years, for the time being, I'll wont be uploading them all and many are deleted and isn't saved or documented.
 
 <img src="https://giffiles.alphacoders.com/130/13054.gif" alt="wave" width="100%" height="auto" />
 
