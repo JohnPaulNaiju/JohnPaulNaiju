@@ -82,6 +82,7 @@ While I've worked on numerous projects over the years, for the time being, I'll 
 - Hospital management system (+2 CS project)
 - Chatbot
 - Chat apps
+- RC cars
 - etc
 
 ### Freelance works that I have done (these projects are private repo)
