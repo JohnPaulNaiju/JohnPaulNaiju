@@ -70,6 +70,7 @@ While I've worked on numerous projects over the years, for the time being, I'll 
 
 * **Wytty**: Community based Social Networking App. [See here](https://github.com/JohnPaulNaiju/wytty)
 * **4note**: AI note taking app. [See here](https://github.com/JohnPaulNaiju/4note)
+* **AI Receptionist**: AI receptionist and AI hotel services (booking etc.) app. [See here](https://github.com/JohnPaulNaiju/AI-Receptionist)
 
 ### Undocumented projects:
 
