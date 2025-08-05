@@ -84,6 +84,7 @@ While I've worked on numerous projects over the years, for the time being, I'll 
 - Chatbot
 - Chat apps
 - RC cars
+- Pomodoro timer app
 - etc
 
 ### Freelance works that I have done (these projects are private repo)
