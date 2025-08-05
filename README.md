@@ -68,11 +68,23 @@ While I've worked on numerous projects over the years, for the time being, I'll 
 
 <img src="https://giffiles.alphacoders.com/130/13054.gif" alt="wave" width="100%" height="auto" />
 
-#### 1. **Wytty**: Community based Social Networking App. [See here](https://github.com/JohnPaulNaiju/wytty)
-#### 2. **4note**: AI note taking app. [See here](https://github.com/JohnPaulNaiju/4note)
+* **Wytty**: Community based Social Networking App. [See here](https://github.com/JohnPaulNaiju/wytty)
+* **4note**: AI note taking app. [See here](https://github.com/JohnPaulNaiju/4note)
 
-<h1>Freelance works that I have done</h1>
-### These projects are private repo
+### Undocumented projects:
+
+- Whatsapp clone
+- Flappy bird
+- Signal clone
+- Netflix clone
+- Google meet clone
+- Hospital management system (+2 CS project)
+- Chatbot
+- Chat apps
+- etc
+
+### Freelance works that I have done (these projects are private repo)
+
 1. CMS website for a school
 2. CMS website for a tour company
 3. Employee, Project, Client management software for cleaning and other services offering company
