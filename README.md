@@ -35,7 +35,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
     <li>🔥 Firebase | GCP | MySQL | cPanel</li>
     <li>🌐 HTML | CSS | ReactJS | React Native | Material UI</li>
     <li>🛠️ Figma | Fusion 360 | Gitlab | Github | VS Code</li>
-    <li>🔬 Arduino | Rasperry Pi | Bambu lab A1 mini</li>
+    <li>🔬 Arduino | Rasperry Pi | Bambu lab A1 mini | Basic electronic components and tools</li>
 </ul>
 
 <h1>Experience <img src="https://i.pinimg.com/originals/fa/d4/b3/fad4b3f890c95985a95f0dd8b6f1bb5c.gif" alt="wave" width="60"/></h1>
