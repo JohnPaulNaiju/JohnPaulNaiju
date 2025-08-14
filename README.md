@@ -72,6 +72,7 @@ While I've worked on numerous projects over the years, for the time being, I'll 
 * **4note**: AI note taking app. [See here](https://github.com/JohnPaulNaiju/4note)
 * **AI Receptionist**: AI receptionist and AI hotel services (booking etc.) app. [See here](https://github.com/JohnPaulNaiju/AI-Receptionist)
 * **Animal Detection**: Animal Detection in python using YoLo. [See here](https://github.com/JohnPaulNaiju/Animal-Detection)
+* **Web server in C**: Web server from scratch using C> [See here](https://github.com/JohnPaulNaiju/Web-Server)
 
 [See more](https://github.com/JohnPaulNaiju/projects)
 
