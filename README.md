@@ -11,7 +11,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 <ul>
     <li>👨‍💻 Fullstack | Software development</li>
     <li>🖥️ Computer science | algorithms</li>
-    <li>🤖 AI | ML | DL | Transformers | Neural Nets</li>
+    <li>🤖 AI | ML | DL</li>
     <li>⚛️ Quantum Science and Technology</li>
     <li>🪫 Electronics</li>
     <li>🦾 Robotics</li>
@@ -24,7 +24,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 <h3>My skills</h3>
 <ul>
   <li>🧑‍💻 Programming | Coding | Development</li>
-  <li>🎨 Design: UI | UX | CAD</li>
+  <li>🎨 Design: UI | UX | CAD | Circuit Design</li>
   <li>🕹️ Embedded systems</li>
   <li>👷‍♂️ Prototyping</li>
 </ul>
