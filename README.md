@@ -34,7 +34,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
     <li>🐍 Python | Javascript | C++ | C | R | Java | NodeJS</li>
     <li>🔥 Firebase | GCP | MySQL | cPanel</li>
     <li>🌐 HTML | CSS | ReactJS | React Native | Material UI</li>
-    <li>🛠️ Figma | Fusion 360 | Gitlab | Github | VS Code</li>
+    <li>🛠️ Figma | Fusion 360 | Gitlab | Github | VS Code | KiCad</li>
     <li>🔬 Arduino | Rasperry Pi | Bambu lab A1 mini | Basic electronic components and tools</li>
 </ul>
 
