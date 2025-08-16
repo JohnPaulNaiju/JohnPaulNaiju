@@ -27,6 +27,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
   <li>🎨 Design: UI | UX | CAD | Circuit Design</li>
   <li>🕹️ Embedded systems</li>
   <li>👷‍♂️ Prototyping</li>
+  <li>Reverse engineering | Problem solving | Attention to detail</li>
 </ul>
 
 <h3>Tools I use</h3>
