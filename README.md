@@ -24,7 +24,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 <h3>My skills</h3>
 <ul>
   <li>🧑‍💻 Programming | Coding | Development</li>
-  <li>🎨 Design: UI | UX | CAD | Circuit Design</li>
+  <li>🎨 Design: UI | UX | CAD | Circuit Design | Occasional video editing</li>
   <li>🕹️ Embedded systems</li>
   <li>👷‍♂️ Prototyping</li>
   <li>😏 Reverse engineering | Problem solving | Attention to detail</li>
@@ -35,7 +35,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
     <li>🐍 Python | Javascript | C++ | C | R | Java | NodeJS</li>
     <li>🔥 Firebase | GCP | MySQL | cPanel</li>
     <li>🌐 HTML | CSS | ReactJS | React Native | Material UI</li>
-    <li>🛠️ Figma | Fusion 360 | Gitlab | Github | VS Code | KiCad</li>
+    <li>🛠️ Figma | Fusion 360 | Gitlab | Github | VS Code | KiCad | Davinci Resolve | OBS studio</li>
     <li>🔬 Arduino | Rasperry Pi | Bambu lab A1 mini | Basic electronic components and tools</li>
 </ul>
 
