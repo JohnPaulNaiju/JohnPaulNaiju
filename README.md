@@ -79,7 +79,7 @@ While I've worked on numerous projects over the years, for the time being, I'll 
 
 <h2>Contacts</h2>
 
-- [Reach me by mail 📫](mailto:johnpaul100574@gmail.com)
+- [Reach me by mail 📫](fromscratchitself@gmail.com)
 
 <h2>Causes</h2>
 
