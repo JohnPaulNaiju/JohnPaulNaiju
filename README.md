@@ -1,5 +1,4 @@
-<h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30" />, <br/>I am John Paul Naiju</h1>
-<h3>Self-taught engineer</h3>
+<h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="30" />, <br/>I am self-taught engineer</h1>
 
 Whatever you do, work at it with all your heart, as working for the Lord, not for human masters, Colossians 3:23.
 
