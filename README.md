@@ -75,7 +75,7 @@ While I've worked on numerous projects over the years, for the time being, I'll 
 * **Animal Detection**: Animal Detection in python using YoLo. [See here](https://github.com/JohnPaulNaiju/Animal-Detection)
 * **Web server in C**: Web server from scratch using C. [See here](https://github.com/JohnPaulNaiju/Web-Server)
 
-[See more](https://github.com/JohnPaulNaiju/projects)
+[See all projects](https://github.com/JohnPaulNaiju/projects)
 
 <h2>Contacts</h2>
 
