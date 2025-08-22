@@ -65,15 +65,10 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <h1>Projects</h1>
 
-While I've worked on numerous projects over the years, for the time being, I'll wont be uploading them all and many are deleted and isn't saved or documented.
-
 <img src="https://giffiles.alphacoders.com/130/13054.gif" alt="wave" width="100%" height="auto" />
 
-* **Wytty**: Community based Social Networking App. [See here](https://github.com/JohnPaulNaiju/wytty)
+* **HTTP Web server from scratch in C**: Web server from scratch using C. [See here](https://github.com/JohnPaulNaiju/Web-Server)
 * **4note**: AI note taking app. [See here](https://github.com/JohnPaulNaiju/4note)
-* **AI Receptionist**: AI receptionist and AI hotel services (booking etc.) app. [See here](https://github.com/JohnPaulNaiju/AI-Receptionist)
-* **Animal Detection**: Animal Detection in python using YoLo. [See here](https://github.com/JohnPaulNaiju/Animal-Detection)
-* **Web server in C**: Web server from scratch using C. [See here](https://github.com/JohnPaulNaiju/Web-Server)
 
 [See all projects](https://github.com/JohnPaulNaiju/projects)
 
