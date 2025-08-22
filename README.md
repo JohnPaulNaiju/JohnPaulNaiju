@@ -72,7 +72,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 <img src="https://giffiles.alphacoders.com/130/13054.gif" alt="wave" width="100%" height="auto" />
 
 * <h4>**HTTP Web server from scratch in C**:</h4> Web server from scratch using C. [See here](https://github.com/JohnPaulNaiju/Web-Server)
-* <h4>**4note**:</h4 AI note taking app. [See here](https://github.com/JohnPaulNaiju/4note)
+* <h4>**4note**:</h4> AI note taking app. [See here](https://github.com/JohnPaulNaiju/4note)
 
 [See all projects](https://github.com/JohnPaulNaiju/projects)
 
