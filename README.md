@@ -41,7 +41,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 ---
 
-<h2>Experience <img src="https://i.pinimg.com/originals/fa/d4/b3/fad4b3f890c95985a95f0dd8b6f1bb5c.gif" alt="wave" width="60"/></h2>
+<h1>Experience <img src="https://i.pinimg.com/originals/fa/d4/b3/fad4b3f890c95985a95f0dd8b6f1bb5c.gif" alt="wave" width="60"/></h1>
 
 ### 1) 💼 Freelance Software Developer (present]
 
@@ -51,7 +51,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 ---
 
-<h2>Courses, Education n Research<img src="https://i.pinimg.com/originals/ee/7c/43/ee7c4374f599e383ff0d92d5de2f8d60.gif" alt="wave" width="60"/></h2>
+<h1>Courses, Education n Research<img src="https://i.pinimg.com/originals/ee/7c/43/ee7c4374f599e383ff0d92d5de2f8d60.gif" alt="wave" width="60"/></h1>
 
 ### 1) 🎓 APJ Abdul Kalam Technological University
 
@@ -61,7 +61,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 ---
 
-<h2>Achievements <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/5c7e0036030a65b2ba85f1d915c3274c.png" alt="wave" width="60"/></h2>
+<h1>Achievements <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/5c7e0036030a65b2ba85f1d915c3274c.png" alt="wave" width="60"/></h1>
 
 ### 1) 🥇 **Horuss Productathon Winner**
 
@@ -71,7 +71,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 ---
 
-<h2>Projects</h2>
+<h1>Projects</h1>
 
 <img src="https://giffiles.alphacoders.com/130/13054.gif" alt="wave" width="100%" height="auto" />
 
