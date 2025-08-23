@@ -84,4 +84,4 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <h2>Causes</h2>
 
-I do these to learn feed my curiosity and fullfill my **purpose** god has given me and not job or chasing paychecks. Above all what will it profit a man if he gains the whole world and forfeits his soul? Hoping I would be able to put my knowledge and resources I have to something useful which will help people. Peace ✌️
+I do these to learn feed my curiosity and fullfill my **purpose** god has given me and not for job or chasing paychecks. Above all what will it profit a man if he gains the whole world and forfeits his soul? Hoping I would be able to put my knowledge and resources I have to something useful which will help people. Peace ✌️
