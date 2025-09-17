@@ -7,6 +7,8 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="wave" width="100%" height="auto" />
 
+- Age: 22
+
 <h3>My area of learning and interest</h3>
 <ul>
     <li>👨‍💻 Fullstack | Software development</li>
