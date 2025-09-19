@@ -34,7 +34,7 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <h3>Tools I use</h3>
 <ul>
-    <li>🐍 Python | Javascript | C++ | C | R | Java | NodeJS</li>
+    <li>🐍 Python | Javascript | TypeScript | C++ | C | R | Java | NodeJS</li>
     <li>🔥 Firebase | GCP | MySQL | cPanel</li>
     <li>🌐 HTML | CSS | ReactJS | React Native | Material UI</li>
     <li>🛠️ Figma | Fusion 360 | Gitlab | Github | VS Code | KiCad | Davinci Resolve | OBS studio</li>
