@@ -11,14 +11,10 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 
 <h3>My area of learning and interest</h3>
 <ul>
-    <li>👨‍💻 Fullstack | Software development</li>
+    <li>👨‍💻 Low level programming/engineering | Software</li>
     <li>🖥️ Computer science | algorithms</li>
     <li>🤖 AI | ML | DL</li>
     <li>⚛️ Quantum Science and Technology</li>
-    <li>🪫 Electronics</li>
-    <li>🦾 Robotics</li>
-    <li>🚀 Aerospace | Aeronautical</li>
-    <li>🔭 Physics</li>
     <li>🧮 Mathematics</li>
     <li>✝️ Bible studies</li>
 </ul>
@@ -26,18 +22,18 @@ My journey as a self-taught engineer and researcher is fueled by an innate desir
 <h3>My skills</h3>
 <ul>
   <li>🧑‍💻 Programming | Coding | Development</li>
-  <li>🎨 Design: UI | UX | CAD | Circuit Design | Occasional video editing</li>
+  <li>🎨 Design: UI | UX | CAD | Circuit Design</li>
   <li>🕹️ Embedded systems</li>
   <li>👷‍♂️ Prototyping</li>
-  <li>😏 Reverse engineering | Problem solving | Attention to detail</li>
+  <li>😏 Problem solving | Attention to detail</li>
 </ul>
 
 <h3>Tools I use</h3>
 <ul>
-    <li>🐍 Python | Javascript | TypeScript | C++ | C | R | Java | NodeJS</li>
+    <li>🐍 C/C++ | Python | Javascript/TypeScript | R | Java</li>
     <li>🔥 Firebase | GCP | MySQL | cPanel</li>
-    <li>🌐 HTML | CSS | ReactJS | React Native | Material UI</li>
-    <li>🛠️ Figma | Fusion 360 | Gitlab | Github | VS Code | KiCad | Davinci Resolve | OBS studio</li>
+    <li>🌐 HTML | CSS | ReactJS | React Native | Material UI | NodeJS</li>
+    <li>🛠️ CLion | PyCharm | Webstorm | Figma | Fusion 360 | Gitlab | Github | VS Code | KiCad </li>
     <li>🔬 Arduino | Rasperry Pi | Bambu lab A1 mini | Basic electronic components and tools</li>
 </ul>
 
