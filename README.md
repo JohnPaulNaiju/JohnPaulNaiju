@@ -60,7 +60,7 @@ Whatever you do, work at it with all your heart, as working for the Lord, not fo
 
 ---
 
-<img src="https://github.com/user-attachments/assets/ddf8e988-2614-4239-9c2a-947cd451aba1" alt="wave" width="100%" height="auto" />
+<img src="https://i.giphy.com/lXo8uSnIkaB9e.webp" alt="wave" width="100%" height="auto" />
 
 ---
 
