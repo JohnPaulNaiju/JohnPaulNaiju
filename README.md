@@ -9,7 +9,7 @@ Whatever you do, work at it with all your heart, as working for the Lord, not fo
 
 <h1>Projects</h1>
 
-### 1) **NeonGrad: High Performance Deeplearning Engine ** (Ongoing)
+### 1) **NeonGrad: High Performance Deeplearning Engine (Ongoing)** 
 - High Performance Deeplearning Engine.
 - **Tech-stack:** C++20, ARM NEON, CMake, LLDB, ASan/UBSan, Apple Instruments, CTest, clang-format, CLion.
 - [See code](https://github.com/JohnPaulNaiju/neongrad)
@@ -58,7 +58,11 @@ Whatever you do, work at it with all your heart, as working for the Lord, not fo
 - **Tech stack:** Fusion 360, Bambu lab A1 mini 3d printer, Discrete Electronics components.
 - [See files](https://github.com/JohnPaulNaiju/Solder-Fume-Extractor)
 
+---
+
 <img src="https://github.com/user-attachments/assets/ddf8e988-2614-4239-9c2a-947cd451aba1" alt="wave" width="100%" height="auto" />
+
+---
 
 > Everybody needs a hobby ✨
 >
