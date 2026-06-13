@@ -9,7 +9,7 @@ Whatever you do, work at it with all your heart, as working for the Lord, not fo
 
 <h1>Projects</h1>
 
-### 1) **NeonGrad: # High-Performance Deep Learning Engine (scratch) | C++, ARM NEON** 
+### 1) **NeonGrad: High-Performance Deep Learning Engine (scratch) | C++, ARM NEON** 
 - High Performance Deeplearning Engine.
 - **Tech-stack:** C++20, ARM NEON, CMake, LLDB, ASan/UBSan, Apple Instruments, CTest, clang-format, CLion.
 - [See code](https://github.com/JohnPaulNaiju/neongrad)
